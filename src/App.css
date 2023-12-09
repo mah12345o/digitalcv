@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;500&display=swap');
+
+body {
+  font-family: 'Roboto Slab', serif !important;
+  text-transform: capitalize;
+}
+
+.main-section:hover {
+  box-shadow: 20px 17px 8px 0px #80808087;
+  transition: .5s;
+  border: 1px solid gray;
+}
+
+.addres-section {
+  word-wrap: break-word;
+}
+
+.font-1 {
+  font-size: 12px;
+  font-weight: 400;
+}
+
+.font-2 {
+  font-size: 16px;
+}
+
+.font-3 {
+  font-size: 22px;
+}
