@@ -27,3 +27,22 @@ body {
 .font-3 {
   font-size: 22px;
 }
+
+/* .rotate {
+  animation: rotation 8s linear infinite ;
+}
+@keyframes rotation {
+  from {
+    transform: rotateY(0deg);
+  }
+  to {
+    transform: rotateY(359deg);
+  }
+} */
+.main-section >div{
+  padding: 20px;
+}
+
+h6{
+  color: blue !important;
+}
